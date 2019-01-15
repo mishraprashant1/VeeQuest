@@ -771,6 +771,7 @@ freshest
 friendliness
 friendly
 frolic
+front
 frugal
 fruitful
 ftw
@@ -830,6 +831,7 @@ godsend
 gold
 golden
 good
+gud
 goodly
 goodness
 goodwill
@@ -1136,6 +1138,7 @@ magnificent
 magnificently
 majestic
 majesty
+major
 manageable
 maneuverable
 marvel
@@ -1347,10 +1350,12 @@ prettily
 pretty
 priceless
 pride
+primary
 principled
 privilege
 privileged
 prize
+pro
 proactive
 problem-free
 problem-solver
@@ -1958,6 +1963,7 @@ well-rounded
 well-run
 well-wishers
 wellbeing
+whitish
 whoa
 wholeheartedly
 wholesome

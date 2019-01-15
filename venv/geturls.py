@@ -5,9 +5,9 @@ def google_search(search_term, api_key, cse_id, **kwargs):
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
     return res['items']
 
-def geturllist(typeofurl):
-    searchlist=input("Search something:")
-    results = google_search(searchlist, "AIzaSyDVrcTrFfUahWlwzZb5jv2SxwteduSAt3o", "004241604990378561825:xmcdndj5vti", num=10)
+def geturllist(query,typeofurl):
+    #searchlist=input("Search something:")
+    results = google_search(query, "AIzaSyDVrcTrFfUahWlwzZb5jv2SxwteduSAt3o", "004241604990378561825:xmcdndj5vti", num=10)
     urllist=[]
     requrls=[]
     for result in results:
@@ -16,5 +16,3 @@ def geturllist(typeofurl):
         else:
             urllist.append(result['link'])
     return requrls
-
-

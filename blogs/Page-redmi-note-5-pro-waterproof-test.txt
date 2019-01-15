@@ -1,0 +1,130 @@
+Skip to content
+
+Witrigs Blog
+
+  * News
+  * Phone Repair Guide
+      + Samsung Repair Guides
+      + Sony Repair Guides
+      + Huawei Repair Guides
+      + HTC Repair Guides
+      + OnePlus Repair Guides
+      + LG Repair Guides
+      + Motorola Repair Guides
+      + Xiaomi Repair Guides
+      + Google Repair Guides
+      + Fix Solutions
+      + Replacement Tutorials
+      + Teardown
+  * Hot-deals
+  * Promotions
+      + Coupons
+      + Discount
+  * Shopping
+
+Redmi Note 5 Pro Waterproof Test
+
+June 14, 2018 Chris Zhao XIAOMI Redmi Note 5 Pro
+
+Do you want to buy Redmi Note 5 Pro? So you are very interested in this waterproof, Redmi Note 5 Pro is a mobile phone released in February 2018, it has a metal back cover, but its highlight is its rear camera, it is doing very well, and Its price is also very low, so more people will pay attention to it. If you need Redmi Note 5 Pro replacement, you can click on it.
+
+
+Washing Test
+
+
+Before testing, I checked the functions of the phone, including camera, touch sensor, and loudspeaker. Then I drenched the water on my honor 10 and imitated the daily encounter with water. I kept this for about 10 seconds.
+
+
+After more than 10 seconds, I stopped watering. I checked the Redmi Note 5 Pro’s touch, camera, and speaker. There were no problems. It should achieve simple life waterproof.
+
+
+Washing Test 2
+
+
+Next, I will strengthen the test, I will put Redmi Note 5 Pro into the water to clean, let us see if Note 5 Pro can survive.
+
+
+After the test, I took the Redmi Note 5 Pro out of the water and tested other features. They have no problems! This did not disappoint me!
+
+
+Shower Test
+
+
+Next, in this test session, we will simulate the scene of heavy rain and let the mobile phone get wet. First place the SIM card tray of the mobile phone upwards to see if it will enter the water.
+
+
+After 30 seconds, I took out the phone and tested its touch and camera without any problems. This surprised me very much!
+
+
+Shower Test 2
+
+
+Next, I placed the charging interface and speaker on it. Let’s see if Note 5 Pro can survive this test!
+
+
+After 30 seconds, I took out the phone and tested its touch and camera. Still no problem.
+
+
+Short-time immersion
+
+
+I was very surprised by the performance of Redmi Note 5 Pro so far, but when I was preparing for the next test, Note 5 Pro had an unexpected situation.
+
+
+The mobile phone had a black screen. I tried to turn it on. The phone did not respond, but it showed a signal that the battery was dead. Everyone noticed that in the previous testing session when the Note 5 Pro was tested, the battery power was more than 50%, which was enough.
+
+
+In view of this situation, I think the water inside the mobile phone has stimulated the battery protection measures and forced to stop the mobile phone from booting. (Because the phone is turned on after entering the water, the motherboard may be completely damaged.)
+
+
+How to deal with water damage in Redmi Note 5 Pro?
+
+
+I decided to dismantle the Redmi Note 5 Pro and check the internal water intake. Then use a dry paper towel to clean the water droplets.
+
+
+I removed the back cover and clearly saw that there was a lot of water inside the phone, which was the main reason for the automatic shutdown of the phone. I continue to dismantle Redmi Note 5 Pro and check if there is water in other places.
+
+
+I removed the motherboard and found that there was water on the earpiece.
+
+
+I removed the speaker and checked the charging port below. I found that there was also water on the charging port.
+
+
+I removed the charging port and saw water on the frame.
+
+
+I wrapped wet phone parts in a dry paper towel. It took 2 days to eliminate all the moisture on the phone parts. Two days later, I reassembled my cell phone and tried to boot.
+
+
+Luckily, my Honor 10 could boot normally.
+
+
+My Redmi Note 5 Pro survived the water tests. And if you want to find out more details, please watch our Youtube video of Redmi Note 5 Pro waterproof test.
+
+Post Views: 11,023
+
+
+Post navigation
+
+Previous Post:How to Replace the Broken Samsung J7 Pro Screen?
+Next Post:Xiaomi Mi 8 Waterproof Test
+  * Abhilash Nair
+
+    Redmi note 5 pro literally stops working and shuts down automatically when its in sustained contact with water. Wondering if its a safety measure to shut down the phone completely to prevent further damage to the mother board. The phone stays shut down and does not turn on, I think I need to take mine to the nearest MI service center to diagnose the problem.
+
+Search for: Search
+
+Related Post
+
+  * Redmi Note 5 Pro Camera Glass Broken | Replacement
+  * Redmi Note 5 Pro Screen Replacement
+  * Redmi note 5 pro Front camera Repair Guide
+  * Redmi Note 5 Pro rear camera Repair Guide
+  * XIAOMI Redmi Note 5 Pro Teardown | Disassembly
+© 2011-2018 Witrigs Blog All Rights Reserved
+
+Enjoy this blog? Please spread the word :)
+
+  * https://www.witrigs.com/blog/redmi-note-5-pro-waterproof-test">

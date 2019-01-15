@@ -1,0 +1,305 @@
+* News
+  * Forums
+    Forum Home
+
+    Top Devices
+
+
+    New Devices
+
+
+    Topics
+
+  * Devices
+    More
+  * Topics
+
+    Features
+
+
+    Customize
+
+  * Best Posts
+Advanced Search
+Remember me Forgot password?
+Log In
+Register or Login with Google
+
+
+Notifications
+
+
+My Devices (edit)
+
+  * Log Out
+  * Settings
+  * Reported Posts
+
+XDA’s Apps
+
+
+  * Nav Gestures
+
+
+    Add swipe gestures to any Android, no root
+
+
+  * One handed mode
+
+
+    Make your phone easier to use with one hand, no root
+
+
+  * XDA Forum App
+
+
+    The best way to access XDA on your phone
+
+
+  * XDA Labs
+
+
+    An app store for independent developers
+
+
+  * Hyperion Launcher
+
+
+    A sweet, feature-filled launcher with a beautiful UX.
+
+
+Sites we like
+
+
+  * Swappa
+
+
+    XDA's official marketplace for buying and selling tech
+
+
+  * Pocketnow
+
+
+    Premium videos
+
+
+Social
+
+
+* Resources
+
+  * Subscribe to our Newsletter
+  * Contact
+  * About
+  * Tip Us
+ 1. Honor Hub
+ 2. Android Pie
+ 3. OnePlus 6T
+ 4. Snapdragon 855
+ 5. 5G
+ 6. Pixel 3
+ 7. Samsung
+ 8. root
+ 9. Mate 20 Pro
+xda-developers Xiaomi Redmi Note 5 Pro
+
+Xiaomi Redmi Note 5 Pro
+
+The Xiaomi Redmi Note 5 Pro is a 5.9" phone with a 1080 x 2160 pixel display. The Snapdragon 636 chipset is paired with 4/6GB of RAM and 32/64GB of storage. The main camera has a dual lens 12MP+5MP setup and the selfie camera is 20MP. The battery has a 4000mAh capacity.
+
+
+Remove All Ads from XDA
+
+
+
+Forum Search
+
+
+Top Forum Discussions
+
+
+Calendar Widget by Home Agenda Lite is a customizable calendar widget for your events
+
+January 11, 2019
+
+Samsung Galaxy S10 forums are now available
+
+January 10, 2019
+
+Enable [email protected] video recording on the Xiaomi POCO F1 [Root]
+
+January 9, 2019
+
+Get the OnePlus Launcher with its recent apps interface on any Android Pie device [Root]
+
+January 6, 2019
+
+Magisk Module adds AR Effects to the EMUI 9 camera on the Huawei Mate 10 Pro (and maybe others)
+
+January 5, 2019
+
+GxFonts is a custom font manager for Samsung Galaxy devices on Android 7.0+
+
+January 4, 2019
+
+Galaxy A6s’s Samsung Experience 9.5 ROM gets ported to the Xiaomi Redmi Note 5 Pro
+
+January 2, 2019
+More Forum Links
+Forum Jumper New Thread +
+
+
+Most Active Xiaomi Redmi Note 5 Pro Topics
+
+  * Everything About Anti Roll-back [Whyred]
+    14th July 2018 AL_IRAQI 143,269
+  * [Magisk] [Module] Mi A2 Ported camera for Whyred custom roms
+    28th July 2018 carlosggb 86,093
+  * Masik ™ X 1.7 Stable
+    13th August 2018 raptorddd 130,808
+  * [Magisk][Module][MI A2 Stock Camera][Update-22/9/18]
+    13th July 2018 ARNOB XENON 83,773
+Xiaomi Redmi Note 5 Pro Real Life Review
+Replies
+Views
+Jan 11
+Photo quality
+14
+7,790
+Jan 03
+Color saturation & accuracy
+4
+1,358
+Dec 31
+Screen on time
+300
+63,343
+Dec 30
+Call quality
+6
+3,960
+Dec 29
+App launch speed
+5
+1,643
+More Xiaomi Redmi Note 5 Pro Real Life Review Threads
+Xiaomi Redmi Note 5 Pro Questions & Answers
+Replies
+Views
+10:06 AM
+how to enable camera2api in RN5 Pro MIUI 10.2.1.0
+3
+95
+08:01 AM
+E1001: Failed to update system image
+0
+17
+05:42 AM
+bootloader unlocked, what now?
+2
+96
+03:38 AM
+Is my battery life normal?
+1
+71
+Jan 12
+do you have pixel 3 google cam front camera running apk?
+1
+159
+More Xiaomi Redmi Note 5 Pro Questions & Answers Threads
+Xiaomi Redmi Note 5 Pro Guides, News, & Discussion
+Replies
+Views
+10:13 AM
+[INDEX][Google Camera] Port APKs table [24/12/2018]
+66
+7,757
+06:21 AM
+paranoid Android beta pie
+11
+680
+02:48 AM
+Masik ™ X 1.7 Stable
+1,576
+130,808
+Jan 12
+Poll: Revolution OS V 8.10.25 (Based on MIUI 10 China Base)
+301
+39,267
+Jan 12
+[All-In-One] Xiaomi Redmi Note 5 (whyred): Unlock BL, Flash TWRP, Root, Flash ROM
+309
+113,895
+More Xiaomi Redmi Note 5 Pro Guides, News, & Discussion Threads
+Xiaomi Redmi Note 5 Pro ROMs, Kernels, Recoveries, & Other Development
+Replies
+Views
+11:49 AM
+[OFFICIAL] [AOSP] [WEEKLY] Arrow OS [Pie] [9.0] | Whyred
+1,093
+125,506
+11:32 AM
+LineageOS 15.1 [OFFICIAL][8.1.0][Treble][Weekly]
+1,557
+190,932
+11:18 AM
+[ROM][9.0.0_r30]AOSiP Pie Beta[20190112]
+870
+128,210
+11:01 AM
+[STABLE] MSM Xtended XP4 Release v9 [OFFICIAL] [Pie|Android 9.0] [January 13, 2019]
+4
+218
+10:51 AM
+[ROM][9.0][whyred] Pixel Experience [AOSP][r30][2019/01/10]
+5,960
+541,787
+More Xiaomi Redmi Note 5 Pro ROMs, Kernels, Recoveries, & Other Development Threads
+Xiaomi Redmi Note 5 Pro Themes, Apps, and Mods
+Replies
+Views
+11:36 AM
+[APP] [MAGSIK] [MIUI too] Working GCAM [2019/01/13]
+6
+499
+11:25 AM
+*Post Your Redmi Note 5 pro Home Screen(s) Set Up!*
+296
+38,199
+10:59 AM
+[MOD] Extended Power Menu [MIUI10]
+34
+4,593
+Jan 12
+(MI A2) MiCamV2 [v1.0.3][UNITY+gcam patches]['18-11-28]
+776
+87,837
+Jan 12
+Note 6 pro camera functions port(only for miui and aosp pie ROM with miui10 camera)
+13
+2,438
+More Xiaomi Redmi Note 5 Pro Themes, Apps, and Mods Threads
+xda-developers Xiaomi Redmi Note 5 Pro
+
+XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+Are you a developer? | Terms of Service
+
+-- XDA Classic -- XDA 2010 -- XDA 2013 ---- XDA 2013 Beta - 1024 -- XDA 2015 ---- 2015 - Dark Theme
+More info
+  * Contact
+  * Advertise
+  * Rules
+  * Suggest Content
+  * Security
+  * Privacy Policy
+  * XDA App
+  * Remove ads on XDA
+    
+  * Root Any Device
+  * How To Guides
+  * XDA's Best
+
+
+Copyright © xda-developers. Hosted by Leaseweb
+
+We're Social

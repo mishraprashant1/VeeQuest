@@ -221,6 +221,7 @@ avarice
 avaricious
 avariciously
 avenge
+average
 averse
 aversion
 aweful
@@ -515,6 +516,8 @@ cancerous
 cannibal
 cannibalize
 capitulate
+cant
+can't
 capricious
 capriciously
 capriciousness
@@ -1997,6 +2000,7 @@ hazard
 hazardous
 haze
 hazy
+hazzy
 head-aches
 headache
 headaches
@@ -2761,6 +2765,7 @@ louder
 lousy
 loveless
 lovelorn
+low
 low-rated
 lowly
 ludicrous

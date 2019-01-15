@@ -4,11 +4,11 @@ import VeeQuestCrawler.VeeQuestCrawler.spiders.featurecrawler as crawler
 import DatabaseConnection as db
 from scrapy.crawler import CrawlerProcess
 import ramandsdprocessing as getramandsd
-process = CrawlerProcess({
+"""process = CrawlerProcess({
     'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
 })
 process.crawl(crawler.QuotesSpider)
-process.start()
+process.start()"""
 file=open("C:\\Users\\Prashant Mishra\\PycharmProjects\\VeQuest\\ScrapedPages\\gsmarenaFeatures\\Page-www.gsmarena.com.txt","r")
 features={}
 global rear,front

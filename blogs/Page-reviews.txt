@@ -1,0 +1,488 @@
+* Xiaomi Smart TV
+
+
+    Xiaomi Mi LED TV 4X Pro and Mi TV 4A Pro launched
+
+Sunday, January 13, 2019 Back to
+
+  * Camera
+
+
+    Best camera phone 2018: Pixel 3, Apple iPhone XS and more
+
+  * home
+  * news
+  * reviews
+      + All Reviews
+      + Mobile
+      + Laptops
+      + Audio
+  * science
+  * auto
+  * gaming
+  * photos
+  * videos
+ 1. Technology News
+ 2. Reviews
+
+Xiaomi Redmi Note 5 review: Evolutionary updates just aren't enough anymore
+
+
+Anirudh Regidi May, 15 2018 12:37:31 IST
+
+  * 0
+
+₹11,999
+
+
+tech2 rating
+
+
+3.8/5
+
+
+* avg. user rating
+
+
+4.8/5
+
+  * review
+  * specs
+
+Xiaomi’s Redmi Note series has long been our value-for-money winner. As a rule of thumb, these phones have offered exceptional performance in their class and are usually paired with an above average display and camera.
+
+
+These phones were not marvels of engineering, but they represented an incredible value in a market where the lower segment was just about compromises on all fronts.
+
+
+In 2018, this is no longer true. Heavy-hitters like Huawei have realised the importance of the budget and mid-range segment of the market and are muscling their way in.
+
+
+A year ago, the latest entry in the Note series stood alone, head and shoulders above the competition. In 2018, the newest phone in the series, the Redmi Note 5, is facing off against some exceptional smartphones, including the Honor 9 Lite, Moto M and several others.
+
+
+Has competition finally caught up to the high bar once set by Xiaomi? Are the heydays of the Note series at an end?
+
+
+Build and Design: 8/10
+
+
+Two trends defined 2017: Dual-cameras and tall displays. While the Note 5 misses out on the former, it has ably adopted the latter.
+
+
+The phone is tall, with a 5.99-inch 18:9 display, and has a well-made metal body. There are no rough edges and the fit and finish are impeccable.
+
+
+The first thing that you notice when you pick up the phone is its weight. At 181 grams, it’s definitely on the heavier side and is, in fact, heavier than the glass-backed iPhone X.
+
+
+In terms of design, not much has changed. The taller aspect ratio of the phone is all that sets it apart from last year’s Note 4. This would normally be perfectly acceptable, but the eye-catching Honor 9 Lite is leagues ahead in the design department and shows that there are better options out there.
+
+
+To put it another way, the 9 Lite will turn heads, the Note 5 will not.
+
+
+The display is tall, but bezels are still present. The top houses the usual assortment of sensors, including the earpiece speaker, front camera, flash, etc. The bottom bezel is blank, with Xiaomi opting to go for software buttons rather than capacitive ones.
+
+
+The left side is where you’ll find the hybrid dual-SIM tray and the right is where you’ll find the volume and power buttons. For the sake of nit-picking, I’d say that the buttons are a little bit mushy and could have been clickier.
+
+
+Xiaomi Redmi Note 5
+
+
+The bottom edge is where you’ll find a microUSB charging port (no USB-C here) and the two speaker grilles. And fear not, the headphone jack remains and finds a home for itself on the top of the phone.
+
+
+The rear camera and fingerprint sensor are aligned to the centre of the rear of the device. A dual-tone LED flash sits between them.
+
+
+Features: 8/10
+
+
+As usual, Xiaomi manages to pack in some great hardware at a reasonable price point. Your money gets you a Snapdragon 625-powered device with 4 GB of RAM, 64 GB of storage, a 5.99-inch 18:9 LCD display with an FHD+ resolution (2160x1080), a 12 MP f/2.2 rear camera, a 5 MP f/2.0 front camera and finally, a 4,000 mAh battery.
+
+
+Power and connectivity is delivered via a microUSB port at the bottom. The headphone jack is at the top.
+
+
+Compared to the phone it replaces, you’re losing 1 MP on the rear camera and 100 mAh from overall battery capacity. In exchange, you’re gaining a larger display and possibly, an improved camera (more on that later). The minuscule loss in battery life should also not have a significant impact.
+
+
+The Snapdragon 625, while almost two years old now, still sets the bar in this price segment.
+
+
+I expected more from a trend-setting smartphone, but I’m not also not too disappointed since few phones offer such features at this price.
+
+
+Display: 7.5/10
+
+
+The only stand-out feature of the Redmi Note 5’s display is that it is tall. Colours are decent and the FHD+ resolution on a 5.99-inch display is good enough for sharp images and text.
+
+
+The Redmi Note 5's display is good enough in its class, but don't expect anything exceptional.
+
+
+The display’s contrast ratio is a bit low, as are default brightness levels. I found myself constantly setting a higher brightness value in almost all conditions and especially when watching videos. On the other hand, if you put the brightness too high, the backlight bleeds through more strongly. The edges of the display are rounded.
+
+
+The screen is physically similar to the one on the Note 5 Pro, but the quality is inferior
+
+
+Coming from an iPhone 8, I enjoyed the larger screen. Videos are a pleasure to watch, provided you turn up the brightness, and apps these days allow you to zoom in to fill up the display.
+
+
+This is not an exceptional display and is good enough for a phone in this price bracket. Its aspect ratio also makes the phone seem like a product of 2018.
+
+
+Software: 8/10
+
+
+Xiaomi’s MIUI is iOS-inspired and shares the Cupertino giant's inertia when it comes to change. You’re not going to see sweeping changes with each iteration, but what is present is constantly being tweaked and improved upon. It’s among the better skins for Android, but given that MIUI 9.2 is still based on Android 7 Nougat (Android 9.0 is coming soon, by the way), I’m not particularly excited.
+
+
+If you have used a Xiaomi phone in the past, the UI will be very familiar. It’s a good skin for Android and I do like how refined the animations are. Skins from the competition tend to feel a little unrefined.
+
+
+It’s a comfortable skin to use, but a tad dull, and given a choice, I’d have preferred an Android One-based OS.
+
+
+Performance: 7.5/10
+
+
+Given the hardware, the performance is virtually unchanged from that of its predecessor. The phone feels snappy and is quick to respond to input. The animations were also always fluid and I never noticed any dropped frames or lag. In synthetic benchmarks, the phone was faster than similarly-priced phones.
+
+
+Xiaomi Redmi Note 5 and Note 5 Pro performance Infogram
+
+
+Apps opened and closed quickly and games ran beautifully. The phone never heated up unduly, only getting slightly warm in demanding situations.
+
+
+The one area where I noticed issues was in video playback. This wasn’t a frequent occurrence, but every once in a while, the video frame in YouTube or Netflix would freeze while the audio ran on normally. The video would then accelerate to make up for the lost frames. This issue wasn’t frequent enough to be annoying, but it popped up frequently enough to get noticed.
+
+
+Network performance was great in the time I used the device. I only used it in single SIM mode and never had unusual drops in the network. Call quality was great.
+
+
+Audio over headphones was decent — the bass was on the boomier side, not very precise — and the speaker should be loud enough for home use.
+
+
+Camera: 7/10
+
+
+Xiaomi’s gone for a bog-standard camera layout on the Note 5. There aren’t any oversized front sensors, large apertures or dual-cameras to be found. What you get is a 12 MP f/2.2 rear camera and a 5 MP f/2.0 front camera.
+
+
+The good news is that the rear camera can capture some stunning images in good lighting. Outdoors and in bright sunlight, provided your subject is within a few feet of the camera, images look amazing. Photos so captured can hold their own with those from phones two to three times the price.
+
+
+Sadly, the light just has to fall slightly for the image quality to drop to an average level. Images in low-light are noticeably bad and the camera simply fails to capture any details.
+
+
+Even indoors, images of brightly lit subjects are filled with noise. Another issue is that you can’t expect to crop the images. Shots in daylight look great when they’re filling the screen, but zoom in even slightly and you’ll start to notice blurred textures and fuzzy outlines.
+
+
+The Note 5's cameras are virtually unchanged from last year.
+
+
+I also don’t think the camera is as fast as it could be. I missed several shots of fast-moving subjects because the shutter didn’t respond immediately when pressed. The camera also doesn’t track moving subjects very well. HDR mode is even slower to respond but is worth enabling when you have the time to compose and take your shot.
+
+
+Selfies are particularly disappointing. They’re usually full of noise and lack detail.
+
+
+Overall, the camera is decent and is an improvement over last year's Note 4. However, I have to bring up the Honor 9 Lite again. Offering 4 cameras at a similar price point, the 9 Lite takes things to the next level.
+
+
+Battery Life: 8/10
+
+
+The Snapdragon 625 powering this phone is an inherently efficient chip. My daily usage, which consists of dozens of mails, over a hundred messages, a few dozen calls and at least a couple of hours of video sees the phone lasting me a day and a half or more.
+
+
+Xiaomi hasn’t confirmed the charging standard that they’re using in the Note 5. They have, however, bundled a 10 W charger with the phone (Apple only bundles 5 W chargers, even with the iPhone X).
+
+
+The bundled charger can fully charge the phone in around two hours. For a 4,000 mAh phone that costs less than Rs 15,000, that’s not bad at all. However, this is about the same as it was last year.
+
+
+Verdict
+
+
+The Redmi Note 5 ticks all the right boxes and offers a great package at a great price. For the very first time in years, Xiaomi has competition breathing down its neck. The Redmi Note 5 is no longer the budget king. That honor, punnily enough, goes to the Honor 9 Lite.
+
+
+The Note 5 is a good phone, but it's also boring. It's capable, but it's not as exciting anymore.
+
+
+Tech2 is now on WhatsApp. For all the buzz on the latest tech and science, sign up for our WhatsApp services. Just go to Tech2.com/Whatsapp and hit the Subscribe button.
+
+tags
+  * Budget Smartphone
+  * Review
+  * Smartphone Review
+  * Xiaomi Redmi Note 5
+  * Xiaomi Redmi Note 5 Camera
+  * Xiaomi Redmi Note 5 Camera Samples
+  * Xiaomi Redmi Note 5 Features
+  * Xiaomi Redmi Note 5 Images
+  * Xiaomi Redmi Note 5 Performance
+  * Xiaomi Redmi Note 5 Pro
+  * Xiaomi Redmi Note 5 Review
+  * Xiaomi Redmi Note 5 Specifications
+
+Specifications
+
+
+The Xiaomi Redmi Note 5 (64GB, 4GB RAM) features a 5.99-inch FHD+ display with a resolution of 2160 x 1080 pixels and is powered by a 1.8GHz octa core processor and has 4GB of RAM. It comes with 64GB of inbuilt storage and has a 12.0-megapixel rear camera and 5.0-megapixel front camera. It comes with Android 7.1 Nougat OS and support a 4000mAh battery capacity with 3G & 4G.
+
+
+Display
+
+Screen Type       FHD+ Capacitive Touchscreen
+Screen Size       5.99 inches                
+Screen Resolution 2160 x 1080                
+Protection        Corning Gorilla Glass      
+
+Processor
+
+Processor Octa Core
+Speed     1.8 GHz  
+
+Memory
+
+Internal Memory 64GB, 4GB RAM
+
+Camera Features
+
+Sensor Resolution   12MP                                                                                    
+Features            Dual LED flash, PDAF, Low light enhancement, HDR, Panorama, Burst mode, Face recognition
+Front facing camera 5MP                                                                                     
+
+General Features
+
+OS                 Android 7.1 (Nougat)             
+Bluetooth Features 4.2                              
+Dual Sim Support   Yes                              
+Messaging          SMS, MMS, Email                  
+GPS                Yes, with A-GPS, GLONASS, BeiDou 
+USB Connector      Yes                              
+Available Colours  Black, Gold, Lake Blue, Rose Gold
+
+Carrier Networks
+
+2G GSM 850/900/1800/1900 MHz
+3G WCDMA 2100 MHz           
+4G Yes                      
+
+Data
+
+WiFi 802.11a/b/g/n
+
+Body
+
+Dimensions 75.45 x 8.05 x 158.5 mm
+Weight     180 grams              
+
+Sound
+
+Media Player    Yes  
+Speakerphone    Yes  
+Audio connector 3.5mm
+
+Battery
+
+Type     Li-Ion  
+Capacity 4000 mAh
+
+After Sales Service
+
+Warranty Period 1 Year
+
+Price
+
+Warranty Period 1 Year
+
+
+
+
+Steve Madden #Selfmade
+
+
+
+latest videos
+
+
+Samsung's The Wall First Look: CES 2019
+
+
+Pix Digital Backpack First Look | CES 2019
+
+
+Mixologiq Automated Cocktail Maker First Look | CES 2019
+
+
+Nokia Solar Connected Bike First Look | CES 2019
+
+
+Lenovo Legion Y740 First Look | CES 2019
+
+
+Royole FlexPai First Look | CES 2019
+
+
+Deleted video
+
+
+Deleted video
+
+
+Huwei Matebook 13 First Look | CES 2019
+
+
+Sony Master Z9G 8K TV First Look | CES 2019
+
+
+
+also see
+
+
+Xiaomi Redmi Note 5 Pro
+
+
+Xiaomi Redmi Note 5 Pro gets a discount of up to Rs 4,000: All you need to know
+
+Jan 08, 2019
+
+Review
+
+
+Loveless movie review: Andrey Zvyagintsev's film highlights the difficulty of leaving one's past behind
+
+Jan 03, 2019
+
+MovieReview
+
+
+Mary Poppins Returns movie review: Emily Blunt gets overpowered by Disney's nostalgic obsessions
+
+Jan 04, 2019
+
+MovieReview
+
+
+Second Act movie review: Jennifer Lopez's charming screen presence is wasted in this pedestrian story
+
+Jan 11, 2019
+
+Evening Shadows is a vivid portrayal of a coming out story that's as warm as it is raw and complex
+
+Jan 11, 2019
+
+movie-reviews
+
+
+The Mule movie review: Clint Eastwood's latest feature falls flat as both drama and thriller
+
+Jan 05, 2019
+
+science
+
+
+black hole
+
+
+A mysterious cosmic flare, 'the cow' might just be the birth of a black hole
+
+Jan 11, 2019
+
+Chang'e 4
+
+
+China's lunar probe Chang'e 4 sends panoramic image of moon's far side
+
+Jan 11, 2019
+
+sea lions
+
+
+Oregon wildlife officials begin killing California sea lions after relocation fails
+
+Jan 11, 2019
+
+Oceans
+
+
+Oceans are warming faster than expected, new temperature record set in 2018
+
+Jan 11, 2019
+Site Index
+  * Tech2
+  * T & C
+  * Policy
+  * Contact Us
+  * हिंदी फर्स्टपोस्ट
+  * हिंदी फर्स्टपोस्ट
+  * About Firstpost
+  * RSS
+  * Twitter
+  * Facebook
+  * Sections
+  * Front Page
+  * Politics
+  * Sports
+  * India
+  * World
+  * Business
+  * Life
+  * Entertainment
+  * Cricket
+  * Tech
+  * Photos
+  * Videos
+  * Plus
+  * F.Cricket
+  * Apple Iphone 2018
+  * Hockey world cup 2018
+  * Budget 2018
+  * Tax Calculator
+  * Pro Kabaddi 2017
+  * IPL 2018
+  * FIFA U17 WC
+  * Laureus World Sports Awards 2017
+  * New Delhi
+  * Mumbai
+  * Photos
+  * F. Pedia
+  * Videos
+  * FP Exclusives
+  * Video Room
+  * Network 18 sites
+  * In.com
+  * Moneycontrol
+  * Burrp
+  * TopperLearning
+  * Clear Study Doubts
+  * Overdrive
+  * IBN Live
+  * News18
+  * Sample Papers Online
+  * Business Technology News
+  * MTV India
+  * Online Shopping in India
+  * CAprep18
+  * F. Shows
+  * E-Learning Franchise Opportunity
+  * GST Rate List India
+  * Tools
+  * RSS Feeds
+  * Apps
+  * iOS
+  * Android
+
+* Copyright © 2019. Firstpost - All Rights Reserved.
+
+
+Terms of use Privacy

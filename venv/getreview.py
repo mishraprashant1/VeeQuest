@@ -29,6 +29,9 @@ def ParseReviews(asin):
         XPATH_AGGREGATE_RATING = '//table[@id="histogramTable"]//tr'
         XPATH_PRODUCT_NAME = '//h1//span[@id="productTitle"]//text()'
         XPATH_PRODUCT_PRICE = '//span[@id="priceblock_ourprice"]/text()'
+        XPATH_OVERALL = '//*[@id="reviewsMedley"]/div/div[1]/div[1]/div/div/div[2]/div/span/span/a/span/text()'
+        overall = parser.xpath(XPATH_OVERALL);overall=overall[0]
+        overall=overall.replace(' out of 5 ','');overall=overall.replace('stars','')
 
         raw_product_price = parser.xpath(XPATH_PRODUCT_PRICE)
         raw_product_name = parser.xpath(XPATH_PRODUCT_NAME)
@@ -109,30 +112,23 @@ def ParseReviews(asin):
             reviews_list.append(review_dict)
 
         data = {
-                    'ratings': ratings_dict,
-                    'reviews': reviews_list,
-                    'url': amazon_url,
-                    'name': product_name,
-                    'price': product_price
-
-                }
+            'ratings': ratings_dict,
+            'reviews': reviews_list,
+            'url': amazon_url,
+            'name': product_name,
+            'price': product_price,
+            'overall rating':overall
+        }
         return data
     return {"error": "failed to process the page", "url": amazon_url}
 
 def ReadAsin():
     extracted_data = []
-    urllist=url.geturllist("amazon")
-    for asin in urllist:
-        extracted_data.append(ParseReviews(asin))
-        sleep(5)
+    urllist=url.geturllist("amazon.in")
+    extracted_data.append(ParseReviews(urllist[0]))
     f = open('C:\\Users\\Prashant Mishra\\PycharmProjects\\VeQuest\\amazonReviews\\data.json', 'w')
     dump(extracted_data, f, indent=4)
     return extracted_data
     f.close()
 
-def getAllReviews():
-    data=ReadAsin()
-    return data
-print(data[0]["ratings"])
-#if __name__ == '__main__':
-#    ReadAsin()
+
