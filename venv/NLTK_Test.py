@@ -62,10 +62,14 @@ for i in range(0,len(review[0]["reviews"])):
     sentence=sentence+review[0]["reviews"][i]["review_text"]
 sentence=sentence+blogs.getBlogs()
 data_=preProcess(sentence)
-grammar = "Relation:{<NN.*><.*>*<JJ>}"
-#grammar = "Relation:{<JJ.*><.*>*<NN.*>}"
+grammar1 = "Relation:{<NN.*><.*>*<JJ>}"
+grammar2 = "Relation:{<JJ.*><.*>*<NN>}"
 ratings={}
-cp=RegexpParser(grammar)
+cp=RegexpParser(grammar1)
+for i in range(0,len(data_)):
+    result=cp.parse(data_[i])
+    traverse(result)
+cp1=RegexpParser(grammar1)
 for i in range(0,len(data_)):
     result=cp.parse(data_[i])
     traverse(result)
